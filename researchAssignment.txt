@@ -1,0 +1,26 @@
+Research and document recent cybersecurity breaches, focusing on causes and impacts.
+
+1. Finastra Data Breach - October 31, 2024 and November 8, 2024
+Finastra is a global financial technology company specializing in banking, lending, payments, and 
+treasury solutions for financial institutions.
+- Causes: The intruder has unauthorized access to the Compromised Secure File Transfer Platform (SFTP).
+- Impacts: Leaked consumer's personal information, including consumer’s name and financial account 
+information.
+
+2. CPI Cyber Attack - February 2025
+CPI Books is the UK’s leading book printing group, and prints across nine UK factories, producing 
+160 million books every year, as well as journals and loose-leaf products.
+- Cause: The attack was identified as Ransomware and the cyber attack has been attributed to the Rhysida 
+ransomware group.
+- Impacts: Data of some clients were stolen and some profit was wiped out.
+
+3. United States Coast Guard Data Breach
+- Cause: No cause was mentioned
+- Impacts:   These data breach caused a delay in wage payments to 1,135 service members and personnels.
+
+4. Unimicron Technology Ransomware Attack – January 30
+Unimicron Technology Corporation started up in 1990. The company specializes in the manufacturing, 
+processing, and sales of printed circuit boards, high density interconnection, flexible print circuit 
+boards, rigid-flex boards, IC carriers, IC testing and burn-in services.
+- Cause:  The company was attacked by a ransomware, which gave the intruder access to the company files.
+- Impacts:  Data which amount to 377gb of sql files and documents were stolen.
