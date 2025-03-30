@@ -1,0 +1,10 @@
+Hello Reader,
+
+Welcome to my second encryption practical.
+
+This is an encryption file for a asymmetric practical.
+
+I hope you have the public  key to access the file.
+
+Thank you.
+Miracle

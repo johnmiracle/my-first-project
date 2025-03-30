@@ -1,0 +1,9 @@
+Hi Reader,
+
+This is a text file for topic 2. 
+
+I will be practicing Hashing algorithms and digital signatures.
+
+To ensure the integrity of this file, verify the file after download.
+
+Thank you.
